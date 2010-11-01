@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/idmarker
+END
+FLARSingleIdMarkerDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/idmarker/FLARSingleIdMarkerDetector.as
+END
+FLARDetectIdMarkerResultStack.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/idmarker/FLARDetectIdMarkerResultStack.as
+END
+FLARSingleIdMarkerDetectCB.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/idmarker/FLARSingleIdMarkerDetectCB.as
+END
+FLARMultiIdMarkerDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/idmarker/FLARMultiIdMarkerDetector.as
+END
+FLARDetectIdMarkerResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/idmarker/FLARDetectIdMarkerResult.as
+END
+FLARMultiIdMarkerDetectCB.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/idmarker/FLARMultiIdMarkerDetectCB.as
+END

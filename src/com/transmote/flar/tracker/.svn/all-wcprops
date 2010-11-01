@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/codeshare/!svn/ver/243/FLARManager/trunk/src/com/transmote/flar/tracker
+END
+FlareManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/codeshare/!svn/ver/243/FLARManager/trunk/src/com/transmote/flar/tracker/FlareManager.as
+END
+IFLARTrackerManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/tracker/IFLARTrackerManager.as
+END
+FLARToolkitManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/tracker/FLARToolkitManager.as
+END
+FlareNFTManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/codeshare/!svn/ver/243/FLARManager/trunk/src/com/transmote/flar/tracker/FlareNFTManager.as
+END

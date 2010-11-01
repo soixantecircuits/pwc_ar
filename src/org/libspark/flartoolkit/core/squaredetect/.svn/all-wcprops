@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/core/squaredetect
+END
+FLARSquare.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/core/squaredetect/FLARSquare.as
+END
+FLContourPickup.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/core/squaredetect/FLContourPickup.as
+END
+FLARSquareContourDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/core/squaredetect/FLARSquareContourDetector.as
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/utils/smoother
+END
+FLARMatrixSmoother_AverageSimple.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/utils/smoother/FLARMatrixSmoother_AverageSimple.as
+END
+IFLARMatrixSmoother.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/utils/smoother/IFLARMatrixSmoother.as
+END
+FLARMatrixSmoother_Average.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/utils/smoother/FLARMatrixSmoother_Average.as
+END

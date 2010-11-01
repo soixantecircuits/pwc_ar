@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/codeshare/!svn/ver/239/FLARManager/trunk/src/jp/nyatla/nyartoolkit/as3/core/match
+END
+NyARMatchPattResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codeshare/!svn/ver/239/FLARManager/trunk/src/jp/nyatla/nyartoolkit/as3/core/match/NyARMatchPattResult.as
+END
+NyARMatchPatt_Color_WITHOUT_PCA.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/codeshare/!svn/ver/239/FLARManager/trunk/src/jp/nyatla/nyartoolkit/as3/core/match/NyARMatchPatt_Color_WITHOUT_PCA.as
+END
+INyARMatchPatt.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/codeshare/!svn/ver/239/FLARManager/trunk/src/jp/nyatla/nyartoolkit/as3/core/match/INyARMatchPatt.as
+END
+NyARMatchPattDeviationBlackWhiteData.as
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/codeshare/!svn/ver/239/FLARManager/trunk/src/jp/nyatla/nyartoolkit/as3/core/match/NyARMatchPattDeviationBlackWhiteData.as
+END
+NyARMatchPattDeviationColorData.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/codeshare/!svn/ver/239/FLARManager/trunk/src/jp/nyatla/nyartoolkit/as3/core/match/NyARMatchPattDeviationColorData.as
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/marker
+END
+FLARMarker.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/marker/FLARMarker.as
+END
+FLARMarkerEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/marker/FLARMarkerEvent.as
+END
+FlareMarker.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/marker/FlareMarker.as
+END
+FLARToolkitMarker.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/codeshare/!svn/ver/239/FLARManager/trunk/src/com/transmote/flar/marker/FLARToolkitMarker.as
+END

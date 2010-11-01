@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing
+END
+Sine.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Sine.as
+END
+easing_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/easing_readme.txt
+END
+Circ.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Circ.as
+END
+Back.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Back.as
+END
+Quint.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Quint.as
+END
+Elastic.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Elastic.as
+END
+Cubic.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Cubic.as
+END
+Quad.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Quad.as
+END
+Linear.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Linear.as
+END
+Bounce.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Bounce.as
+END
+Expo.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Expo.as
+END
+Strong.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Strong.as
+END
+Quart.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/25/trunk/CodeLibs/AS3/3rdParty/tween/tweenmaxlite/gs/easing/Quart.as
+END

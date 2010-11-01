@@ -1,0 +1,20 @@
+<tags>
+    <!-- an event cue point-->
+    <metatag event="onCuePoint">
+        <name>Event1</name>
+        <timestamp>1500</timestamp>
+        <parameters>
+            <word>Problématique</word>
+        </parameters>
+        <type>event</type>
+    </metatag>
+    <!-- an event cue point-->
+    <metatag event="onCuePoint">
+        <name>Event2</name>
+        <timestamp>3400</timestamp>
+        <parameters>
+            <word>Humainement et professionellement</word>
+        </parameters>
+        <type>event</type>
+    </metatag>
+</tags>

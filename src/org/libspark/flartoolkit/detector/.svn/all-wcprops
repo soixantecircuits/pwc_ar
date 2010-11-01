@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector
+END
+FLARDetectMarkerResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/FLARDetectMarkerResult.as
+END
+SingleDetectSquareCB.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/SingleDetectSquareCB.as
+END
+FLARSingleMarkerDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/FLARSingleMarkerDetector.as
+END
+FLARDetectMarkerResultStack.as
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/FLARDetectMarkerResultStack.as
+END
+MultiDetectSquareCB.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/MultiDetectSquareCB.as
+END
+FLARMultiMarkerDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codeshare/!svn/ver/239/FLARManager/trunk/src/org/libspark/flartoolkit/detector/FLARMultiMarkerDetector.as
+END

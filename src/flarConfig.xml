@@ -1,0 +1,31 @@
+<flar_config>
+	<!-- source settings -->
+	<flarSourceSettings
+		sourceWidth="320"
+		sourceHeight="240"
+		displayWidth="1024"
+		displayHeight="640"
+		framerate="30"
+		trackerToSourceRatio="1"
+		activityThreshold="25" />
+	<!-- miscellaneous FLARManager settings -->
+	<flarManagerSettings
+		mirrorDisplay="true"
+		smoothing="0.6" >
+		<smoother className="IFLARMatrixSmoother" positionToRotationRatio="0.5" />
+		<thresholdAdapter className="IntegralImageThresholdAdapter" speed="0.5" />
+	</flarManagerSettings>
+	
+	<!-- settings for the selected tracking library.  feel free to omit elements not relevant for the selected tracking library. -->
+	<trackerSettings>
+		<flarToolkitSettings
+			cameraParamsFile="FLARCameraParams.dat" >
+			<patterns resolution="16" patternToBorderRatioX="50" patternToBorderRatioY="50" minConfidence="0.3" >
+				<pattern path="01marker16_blur.pat" />
+				<pattern path="02marker16_blur.pat" />
+				<pattern path="03marker16_blur.pat" />
+				<pattern path="04marker16_blur.pat" />
+			</patterns>
+		</flarToolkitSettings>
+	</trackerSettings>	
+</flar_config>
